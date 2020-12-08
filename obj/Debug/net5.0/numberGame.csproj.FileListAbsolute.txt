@@ -1,0 +1,15 @@
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.csprojAssemblyReference.cache
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.AssemblyInfoInputs.cache
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.AssemblyInfo.cs
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.csproj.CoreCompileInputs.cache
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/numberGame.deps.json
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/numberGame.runtimeconfig.json
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/numberGame.runtimeconfig.dev.json
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/numberGame.dll
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/ref/numberGame.dll
+/Users/mileswilson/source/codeworks/numberGame/bin/Debug/net5.0/numberGame.pdb
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.dll
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/ref/numberGame.dll
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.pdb
+/Users/mileswilson/source/codeworks/numberGame/obj/Debug/net5.0/numberGame.genruntimeconfig.cache
